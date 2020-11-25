@@ -1,0 +1,16 @@
+package-lock.json
+.DS_Store
+.idea
+.vscode
+*.ai
+*.log
+*.pdf
+*.psd
+*.fig
+*.sublime*
+*.swp
+src/
+DatePicker.png
+node_modules/
+npm-debug.*
+Thumbs.db
